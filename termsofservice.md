@@ -1,4 +1,4 @@
-#Terms Of Service | ToS
+# Terms Of Service | ToS
 
 1. Your age must be 13 or 13+ or legal consent age for your country.
 
