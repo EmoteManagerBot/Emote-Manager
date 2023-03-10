@@ -1,4 +1,4 @@
-# PrivacyPolicy
+# Privacy Policy
 
 PRIVACY POLICY Emote Manager BOT PRIVACY POLICY By adding Emote Manager to your Discord server, you agree that you have read and agree to this policy.
 
